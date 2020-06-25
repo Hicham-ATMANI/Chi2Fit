@@ -1,0 +1,36 @@
+#MASSSTEPS:  [-100, -50, -25, -20, -15, -10, -5, 0, 5, 10, 15, 20, 25, 50, 100]
+MASSSTEPS:  [-200, -150, -100, -50, -25, 0, 25, 50, 100, 150, 200]
+#MCFile:   /eos/user/h/hatmani/likelihoodfits_wmass/prepare_and_study_systematics/OutputRes/root_files/Templates_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu_HR_variatons.root
+#MCFile: /afs/cern.ch/work/m/mperego/public/forHicham/Templates_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu_HR_variatons.root
+
+Wminusenu_MCFile:       /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusenu_MC_5TeV/Nominal/mc16_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu.e4916_s3238_r10243_r10210_p3665.root
+Wminusenu_DataFile:     /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusenu_DATA_5TeV/Nominal/data17_WZ_lowMu_repro_5TeV.root
+Wminusenu_Data_B_File:  /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusenu_DATA_5TeV/Bootstrap/data17_WZ_lowMu_repro_5TeV.root
+Wminusenu_MC_B_File:    /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusenu_MC_5TeV/Bootstrap/mc16_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu.e4916_s3238_r10243_r10210_p3665.root
+
+Wplusenu_MCFile:        /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusenu_MC_5TeV/Nominal/mc16_5TeV.361100.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wplusenu.e4916_s3238_r10243_r10210_p3665.root
+Wplusenu_DataFile:      /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusenu_DATA_5TeV/Nominal/data17_WZ_lowMu_repro_5TeV.root
+Wplusenu_Data_B_File:   /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusenu_DATA_5TeV/Bootstrap/data17_WZ_lowMu_repro_5TeV.root
+Wplusenu_MC_B_File:     /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusenu_MC_5TeV/Bootstrap/mc16_5TeV.361100.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wplusenu.e4916_s3238_r10243_r10210_p3665.root
+
+Wminusmunu_MCFile:      /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusmunu_MC_5TeV/Nominal/mc16_5TeV.361104.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusmunu.e4916_s3238_r10243_r10210_p3665.root
+Wminusmunu_DataFile:    /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusmunu_DATA_5TeV/Nominal/data17_WZ_lowMu_repro_5TeV.root
+Wminusmunu_Data_B_File: /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusmunu_DATA_5TeV/Bootstrap/data17_WZ_lowMu_repro_5TeV.root
+Wminusmunu_MC_B_File:   /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusmunu_MC_5TeV/Bootstrap/mc16_5TeV.361104.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusmunu.e4916_s3238_r10243_r10210_p3665.root
+
+Wplusmunu_MCFile:       /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusmunu_MC_5TeV/Nominal/mc16_5TeV.361101.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wplusmunu.e4916_s3238_r10243_r10210_p3665.root
+Wplusmunu_DataFile:     /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusmunu_DATA_5TeV/Nominal/data17_WZ_lowMu_repro_5TeV.root
+Wplusmunu_Data_B_File:  /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusmunu_DATA_5TeV/Bootstrap/data17_WZ_lowMu_repro_5TeV.root
+Wplusmunu_MC_B_File:    /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wplusmunu_MC_5TeV/Bootstrap/mc16_5TeV.361101.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wplusmunu.e4916_s3238_r10243_r10210_p3665.root
+
+#Wminusenu_MC_B_File:    /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusenu_MC_5TeV/Bootstrap/mc16_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu.e4916_s3238_r10243_r10210_p3665.root
+#Wminusenu_DataFile:     /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusenu_DATA_5TeV/Nominal/data17_WZ_lowMu_repro_5TeV.root
+#Wminusenu_Data_B_File:  /eos/user/h/hatmani/DataSets/Wmass_5TeV/WmassAnalysis_wminusenu_DATA_5TeV/Bootstrap/data17_WZ_lowMu_repro_5TeV.root
+Wminusenu_Unfolded:     /afs/cern.ch/work/h/hatmani/HistMaker_v1/Plotting/RooUnfold_Wmass/output_Wminusenu5/mT/Summarize_Wminusenu5.root
+
+
+MCFileId: /eos/user/h/hatmani/likelihoodfits_wmass/prepare_and_study_systematics/InputFiles/5TeV_Wminusenu_ElecSF_id/mc16_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu.e4916_s3238_r10243_r10210_p3665.root
+MCFilere: /eos/user/h/hatmani/likelihoodfits_wmass/prepare_and_study_systematics/InputFiles/5TeV_Wminusenu_ElecSF_reco/mc16_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu.e4916_s3238_r10243_r10210_p3665.root
+MCFileIs: /eos/user/h/hatmani/likelihoodfits_wmass/prepare_and_study_systematics/InputFiles/5TeV_Wminusenu_ElecSF_iso/mc16_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu.e4916_s3238_r10243_r10210_p3665.root
+MCFileTr: /eos/user/h/hatmani/likelihoodfits_wmass/prepare_and_study_systematics/InputFiles/5TeV_Wminusenu_ElecSF_trig/mc16_5TeV.361103.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Wminusenu.e4916_s3238_r10243_r10210_p3665.root
+
