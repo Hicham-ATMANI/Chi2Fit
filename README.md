@@ -24,7 +24,4 @@ This framwork is used for W boson mass analysis:
 
 - Fit the <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\chi^{2}" title="\chi^{2}" /></a>  distribution : <br />
 
-[thesis.pdf](https://github.com/Hicham-ATMANI/Chi2Fit/files/5122694/thesis.pdf)
-
-[Alt text](https://github.com/Hicham-ATMANI/Chi2Fit/files/5122694/thesis.pd)
-
+<img width="1440" alt="Screenshot 2020-08-25 at 11 21 42" src="https://user-images.githubusercontent.com/53044514/91157092-3035cf00-e6c5-11ea-855f-fc462f393be7.png">
