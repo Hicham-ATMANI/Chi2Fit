@@ -24,9 +24,9 @@ This framwork is used for W boson mass analysis:
 
 - Fit the <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\chi^{2}" title="\chi^{2}" /></a>  distribution: <br />
 
-              <img width="514" alt="Screenshot 2020-08-25 at 11 21 42" src="https://user-images.githubusercontent.com/53044514/91157196-4d6a9d80-e6c5-11ea-9c7f-23d4f2741e33.png">
+          <img width="514" alt="Screenshot 2020-08-25 at 11 21 42" src="https://user-images.githubusercontent.com/53044514/91157196-4d6a9d80-e6c5-11ea-9c7f-23d4f2741e33.png">
 
 
 - Evaluate statistical uncertainties on the measurement of W boson mass and the correponding correlation: <br />
 
-             <img width="710" alt="Screenshot 2020-08-25 at 11 25 47" src="https://user-images.githubusercontent.com/53044514/91157542-bfdb7d80-e6c5-11ea-8b4d-a8be4b97f15c.png">
+          <img width="649" alt="Screenshot 2020-08-25 at 11 27 21" src="https://user-images.githubusercontent.com/53044514/91157704-f74a2a00-e6c5-11ea-9523-9a92defd5d4e.png">
