@@ -26,5 +26,5 @@ This framwork is used for W boson mass analysis:
 
 [thesis.pdf](https://github.com/Hicham-ATMANI/Chi2Fit/files/5122694/thesis.pdf)
 
-![alt text](https://github.com/Hicham-ATMANI/Chi2Fit/files/5122694/thesis.pd)
+[Alt text](https://github.com/Hicham-ATMANI/Chi2Fit/files/5122694/thesis.pd)
 
