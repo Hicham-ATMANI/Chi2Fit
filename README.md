@@ -1,7 +1,4 @@
-Running
-=======
-
-```math
+```
 Running
 ```
 python runFits.py
