@@ -10,3 +10,5 @@ This script is used to calculate the X2 value
 
 <img src="https://render.githubusercontent.com/render/math?math=\chi^{2}=\sum_{i=1}^{N} \frac{\left(n^{Data}_{i}-n^{Template}_{i}\right)^{2}}{(\sigma^{Data}_{n_{i}})^{2}+(\sigma^{Template}_{n_{i}})^{2}}">
 
+
+![formula](https://render.githubusercontent.com/render/math?math=\chi^{2}=\sum_{i=1}^{N} \frac{\left(n^{Data}_{i}-n^{Template}_{i}\right)^{2}}{(\sigma^{Data}_{n_{i}})^{2}+(\sigma^{Template}_{n_{i}})^{2}})
