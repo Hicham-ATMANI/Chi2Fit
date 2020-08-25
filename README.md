@@ -8,7 +8,9 @@ python runFits.py
 ```
 Description
 ```
-This framwork is used for W boson mass analysis, used to calculate the <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\chi^{2}" title="\chi^{2}" /></a> value between data and simulation (templates), defined as:
+This framwork is used for W boson mass analysis:
+
+- used to calculate the <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\chi^{2}" title="\chi^{2}" /></a> value between data and simulation (templates), defined as:
 
 
 
