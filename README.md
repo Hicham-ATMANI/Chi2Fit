@@ -22,5 +22,7 @@ This framwork is used for W boson mass analysis:
 
               <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^{2}&space;=&space;(n^{Unf}_{Data}-n^{Unf}_{Template})^{T}&space;\cdot&space;(V_{Data}&space;&plus;&space;V_{Template})^{-1}&space;\cdot&space;(n^{Unf}_{Data}-n^{Unf}_{Template})," target="_blank"><img src="https://latex.codecogs.com/svg.latex?\chi^{2}&space;=&space;(n^{Unf}_{Data}-n^{Unf}_{Template})^{T}&space;\cdot&space;(V_{Data}&space;&plus;&space;V_{Template})^{-1}&space;\cdot&space;(n^{Unf}_{Data}-n^{Unf}_{Template})," title="\chi^{2} = (n^{Unf}_{Data}-n^{Unf}_{Template})^{T} \cdot (V_{Data} + V_{Template})^{-1} \cdot (n^{Unf}_{Data}-n^{Unf}_{Template})," /></a>
 
+- Fit the <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\chi^{2}" title="\chi^{2}" /></a>  distribution : <br />
 
+![alt text](http://url/to/img.png)
 
