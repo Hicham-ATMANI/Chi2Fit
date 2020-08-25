@@ -26,7 +26,7 @@ This framwork is used for W boson mass analysis:
 
 
 - Evaluate the statistical uncertaintiy on the measurement of W boson mass and the correponding correlation: <br />
-          <img width="649" alt="Screenshot 2020-08-25 at 11 27 21" src="https://user-images.githubusercontent.com/53044514/91157704-f74a2a00-e6c5-11ea-9523-9a92defd5d4e.png">
+      <img width="649" alt="Screenshot 2020-08-25 at 11 27 21" src="https://user-images.githubusercontent.com/53044514/91157704-f74a2a00-e6c5-11ea-9523-9a92defd5d4e.png">
           
 - Calculate the total statistical uncertainty, taking into account the correlation, and making latex table: <br />
           <img width="703" alt="Screenshot 2020-08-25 at 11 29 32" src="https://user-images.githubusercontent.com/53044514/91157930-442e0080-e6c6-11ea-8f3a-abbe014c1147.png">
